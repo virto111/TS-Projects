@@ -5,5 +5,5 @@
 
 > So, in order to run the file:
 ```
-ts-node index.ts
+ts-node some_file.ts
 ```
