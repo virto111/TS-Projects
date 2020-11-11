@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.EntityFactory = void 0;
 require("reflect-metadata");
 class EntityFactory {
     static fromPersistenceObject(obj, type) {

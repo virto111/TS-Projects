@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.id = exports.persist = exports.entity = void 0;
 require("reflect-metadata");
 function entity(name) {
     return function (constructor) {

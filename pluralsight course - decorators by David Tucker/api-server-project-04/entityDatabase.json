@@ -17,6 +17,33 @@
             "department": "IT",
             "mobileNumber": "+15555555",
             "age": 38
+        },
+        "5394aa53-6048-416b-831c-b53921ebf9e1": {
+            "id": "5394aa53-6048-416b-831c-b53921ebf9e1",
+            "firstName": "Viktor",
+            "lastName": "Hristov",
+            "email": "v.hristov@gmail.com",
+            "department": "IT",
+            "mobileNumber": "+359889666666",
+            "age": 40
+        },
+        "ebd3d202-6b77-4c6a-9e55-e686bd530ef4": {
+            "id": "ebd3d202-6b77-4c6a-9e55-e686bd530ef4",
+            "firstName": "Viktor",
+            "lastName": "Hristov",
+            "email": "v.hristov@gmail.com",
+            "department": "IT",
+            "mobileNumber": "+359889666666",
+            "age": 40
+        },
+        "4ef78c7a-48d3-4df2-af8d-f72bafccdd4c": {
+            "id": "4ef78c7a-48d3-4df2-af8d-f72bafccdd4c",
+            "firstName": "Viktor",
+            "lastName": "Hristov",
+            "email": "v.hristov@gmail.com",
+            "department": "IT",
+            "mobileNumber": "+359889666666",
+            "age": 40
         }
     },
     "users": {

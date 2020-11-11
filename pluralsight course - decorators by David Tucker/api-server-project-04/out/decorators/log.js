@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.logRoute = void 0;
 function logRoute(target, propertyKey, descriptor) {
     const original = descriptor.value;
     descriptor.value = function (...args) {
