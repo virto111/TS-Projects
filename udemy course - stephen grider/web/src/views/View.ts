@@ -1,5 +1,6 @@
 import { Model } from '../models/Model';
 
+
 //! <T extends Model<K>, K> -> see this approach, there is no so much logic in it
 //* [View<T extends Model<K>, K>] -> [View<User, UserProps>]
 export abstract class View<T extends Model<K>, K> {

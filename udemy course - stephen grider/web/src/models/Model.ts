@@ -41,7 +41,7 @@ export class Model<T extends HasId> {
   // get get() {
   //   return this.attributes.get;
   // }
-  //! Short syntax ha sits downsides: https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/15067024#notes
+  //! Short syntax has its downsides: https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/15067024#notes
   on = this.events.on;
   trigger = this.events.trigger;
   get = this.attributes.get;

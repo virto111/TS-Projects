@@ -5,6 +5,7 @@ import { UserEdit } from './views/UserEdit';
 import { UserForm } from './views/UserForm';
 import { Collection } from './models/Collection';
 
+
 const users = new Collection(
   'http://localhost:3000/users', 
   (json: UserProps) => {
